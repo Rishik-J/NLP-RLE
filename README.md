@@ -1,6 +1,6 @@
 # Python-ML-Projects
 
-This repository contains a range of Machine Learning projects utilizing different ML concepts such as Natural Language Processing and reinforcement learning.
+This repository contains a range of Machine Learning projects utilizing Natural Language Processing and reinforcement learning.
 
 ## Usage
 

@@ -1,4 +1,4 @@
-# Python-ML-Projects
+# Natural Language Processing and Reinforcement Learning
 
 This repository contains a range of Machine Learning projects utilizing Natural Language Processing and reinforcement learning.
 
